@@ -14,7 +14,6 @@ numpy
 opencv-python
 pillow==9.5.0
 psutil
-ntgcalls
 py-tgcalls==0.9.7
 pykeyboard
 kurigram==2.1.35
