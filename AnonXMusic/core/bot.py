@@ -1,6 +1,6 @@
 from pyrogram import Client, errors
 from pyrogram.enums import ChatMemberStatus, ParseMode
-from aiohttp import ClientSession
+
 import config
 
 from ..logging import LOGGER
